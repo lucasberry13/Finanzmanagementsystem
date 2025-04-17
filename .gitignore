@@ -1,0 +1,44 @@
+# Build-Ordner
+bin/
+obj/
+
+# User-spezifische Dateien
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code / Visual Studio Umgebung
+.vscode/
+.vs/
+
+# Temporäre Dateien
+*.log
+*.tmp
+*.bak
+*.ncb
+*.cache
+*.dbmdl
+
+# Windows-spezifisch
+Thumbs.db
+Desktop.ini
+
+# Paketverwaltung
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# Publish-Verzeichnis
+publish/
+TestResults/
+*.Publish.xml
+
+# Dotnet Tools
+.dotnet-tools.json
+
+# Einstellungen
+*.ide
+*.vc.db
+
