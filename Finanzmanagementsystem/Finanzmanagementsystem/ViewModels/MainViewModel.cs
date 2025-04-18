@@ -9,6 +9,7 @@ using System.Windows.Input;
 using Finanzmanagementsystem.Models;
 using Finanzmanagementsystem.Services;
 using System.ComponentModel;
+using System.Windows;
 
 namespace Finanzmanagementsystem.ViewModels
 {
@@ -34,13 +35,21 @@ namespace Finanzmanagementsystem.ViewModels
             if (dialog.ShowDialog() == true)
             {
                 var daten = CsvImportService.LadeTransaktionenAusCsv(dialog.FileName);
+
                 Transaktionen.Clear();
                 foreach (var t in daten)
                     Transaktionen.Add(t);
 
+
                 OnPropertyChanged(nameof(SummeEinnahmen));
                 OnPropertyChanged(nameof(SummeAusgaben));
                 OnPropertyChanged(nameof(Gesamtbudget));
+
+                if (Application.Current.MainWindow is MainWindow mainWin &&
+                    mainWin.MainFrame.Content is BudgetsPage)
+                {
+                    mainWin.AktualisiereBudgetsSeite();
+                }
             }
         }
 

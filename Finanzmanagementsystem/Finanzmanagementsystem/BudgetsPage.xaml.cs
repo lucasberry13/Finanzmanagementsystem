@@ -29,9 +29,18 @@ namespace Finanzmanagementsystem
         {
             InitializeComponent();
 
+            Console.WriteLine("[DEBUG] BudgetsPage gestartet mit " + transaktionen.Count + " Transaktionen.");
+
             _viewModel = new BudgetsViewModel(budgets);
             _viewModel.AktualisiereAusgaben(transaktionen);
 
+            DataContext = _viewModel;
+        }
+
+        public void AktualisiereMitTransaktionen(ObservableCollection<Transaktion> transaktionen)
+        {
+            _viewModel.AktualisiereAusgaben(transaktionen);
+            DataContext = null;
             DataContext = _viewModel;
         }
     }

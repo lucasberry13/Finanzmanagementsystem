@@ -12,6 +12,6 @@ namespace Finanzmanagementsystem.Models
         public string Beschreibung { get; set; }
         public decimal Betrag { get; set; }
         public string Kategorie { get; set; }
-        public string Typ { get; set; }
+        public string Typ { get; set; } = "";
     }
 }

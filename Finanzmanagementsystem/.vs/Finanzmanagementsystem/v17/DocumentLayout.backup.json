@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|solutionrelative:finanzmanagementsystem\\viewmodels\\budgetsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|c:\\users\\user\\desktop\\hausarbeit\\finanzmanagementsystem\\finanzmanagementsystem\\viewmodels\\berichteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|solutionrelative:finanzmanagementsystem\\viewmodels\\berichteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|c:\\users\\user\\desktop\\hausarbeit\\finanzmanagementsystem\\finanzmanagementsystem\\models\\budgeteintrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|solutionrelative:finanzmanagementsystem\\models\\budgeteintrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|c:\\users\\user\\desktop\\hausarbeit\\finanzmanagementsystem\\finanzmanagementsystem\\budgetspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|solutionrelative:finanzmanagementsystem\\budgetspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|c:\\users\\user\\desktop\\hausarbeit\\finanzmanagementsystem\\finanzmanagementsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|solutionrelative:finanzmanagementsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|c:\\users\\user\\desktop\\hausarbeit\\finanzmanagementsystem\\finanzmanagementsystem\\budgetspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -27,20 +23,40 @@
       "RelativeMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|solutionrelative:finanzmanagementsystem\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|c:\\users\\user\\desktop\\hausarbeit\\finanzmanagementsystem\\finanzmanagementsystem\\models\\budgeteintrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|solutionrelative:finanzmanagementsystem\\models\\budgeteintrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|c:\\users\\user\\desktop\\hausarbeit\\finanzmanagementsystem\\finanzmanagementsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|solutionrelative:finanzmanagementsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|c:\\users\\user\\desktop\\hausarbeit\\finanzmanagementsystem\\finanzmanagementsystem\\berichtepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|solutionrelative:finanzmanagementsystem\\berichtepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|c:\\users\\user\\desktop\\hausarbeit\\finanzmanagementsystem\\finanzmanagementsystem\\startseitepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|solutionrelative:finanzmanagementsystem\\startseitepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|c:\\users\\user\\desktop\\hausarbeit\\finanzmanagementsystem\\finanzmanagementsystem\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|solutionrelative:finanzmanagementsystem\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|c:\\users\\user\\desktop\\hausarbeit\\finanzmanagementsystem\\finanzmanagementsystem\\services\\csvimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|solutionrelative:finanzmanagementsystem\\services\\csvimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|c:\\users\\user\\desktop\\hausarbeit\\finanzmanagementsystem\\finanzmanagementsystem\\models\\transaktion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|solutionrelative:finanzmanagementsystem\\models\\transaktion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|c:\\users\\user\\desktop\\hausarbeit\\finanzmanagementsystem\\finanzmanagementsystem\\converters\\verfuegbarzufarbeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|solutionrelative:finanzmanagementsystem\\converters\\verfuegbarzufarbeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|c:\\users\\user\\desktop\\hausarbeit\\finanzmanagementsystem\\finanzmanagementsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|solutionrelative:finanzmanagementsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|c:\\users\\user\\desktop\\hausarbeit\\finanzmanagementsystem\\finanzmanagementsystem\\startseitepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|solutionrelative:finanzmanagementsystem\\startseitepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|c:\\users\\user\\desktop\\hausarbeit\\finanzmanagementsystem\\finanzmanagementsystem\\viewmodels\\berichteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|solutionrelative:finanzmanagementsystem\\viewmodels\\berichteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|c:\\users\\user\\desktop\\hausarbeit\\finanzmanagementsystem\\finanzmanagementsystem\\berichtepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|solutionrelative:finanzmanagementsystem\\berichtepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|c:\\users\\user\\desktop\\hausarbeit\\finanzmanagementsystem\\finanzmanagementsystem\\startseitepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -53,18 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|c:\\users\\user\\desktop\\hausarbeit\\finanzmanagementsystem\\finanzmanagementsystem\\models\\monatsbericht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|solutionrelative:finanzmanagementsystem\\models\\monatsbericht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|c:\\users\\user\\desktop\\hausarbeit\\finanzmanagementsystem\\finanzmanagementsystem\\models\\transaktion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|solutionrelative:finanzmanagementsystem\\models\\transaktion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|c:\\users\\user\\desktop\\hausarbeit\\finanzmanagementsystem\\finanzmanagementsystem\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|solutionrelative:finanzmanagementsystem\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|c:\\users\\user\\desktop\\hausarbeit\\finanzmanagementsystem\\finanzmanagementsystem\\services\\csvimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A95D6B1-BB5C-4DAB-A087-9A888F146CB4}|Finanzmanagementsystem\\Finanzmanagementsystem.csproj|solutionrelative:finanzmanagementsystem\\services\\csvimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -77,34 +81,77 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "BudgetEintrag.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\Models\\BudgetEintrag.cs",
               "RelativeDocumentMoniker": "Finanzmanagementsystem\\Models\\BudgetEintrag.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\Models\\BudgetEintrag.cs",
               "RelativeToolTip": "Finanzmanagementsystem\\Models\\BudgetEintrag.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwE8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T11:10:45.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BudgetsPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\BudgetsPage.xaml.cs",
-              "RelativeDocumentMoniker": "Finanzmanagementsystem\\BudgetsPage.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\BudgetsPage.xaml.cs*",
-              "RelativeToolTip": "Finanzmanagementsystem\\BudgetsPage.xaml.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAADwvyMAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Finanzmanagementsystem\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "Finanzmanagementsystem\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwDMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:12:35.947Z",
+              "WhenOpened": "2025-04-16T11:33:00.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "BudgetsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\ViewModels\\BudgetsViewModel.cs",
+              "RelativeDocumentMoniker": "Finanzmanagementsystem\\ViewModels\\BudgetsViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\ViewModels\\BudgetsViewModel.cs*",
+              "RelativeToolTip": "Finanzmanagementsystem\\ViewModels\\BudgetsViewModel.cs*",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwEwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:11:33.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BerichteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\ViewModels\\BerichteViewModel.cs",
+              "RelativeDocumentMoniker": "Finanzmanagementsystem\\ViewModels\\BerichteViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\ViewModels\\BerichteViewModel.cs",
+              "RelativeToolTip": "Finanzmanagementsystem\\ViewModels\\BerichteViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:42:43.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StartseitePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\StartseitePage.xaml.cs",
+              "RelativeDocumentMoniker": "Finanzmanagementsystem\\StartseitePage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\StartseitePage.xaml.cs",
+              "RelativeToolTip": "Finanzmanagementsystem\\StartseitePage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:01:41.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Finanzmanagementsystem\\MainWindow.xaml",
@@ -116,46 +163,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BudgetsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\ViewModels\\BudgetsViewModel.cs",
-              "RelativeDocumentMoniker": "Finanzmanagementsystem\\ViewModels\\BudgetsViewModel.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\ViewModels\\BudgetsViewModel.cs*",
-              "RelativeToolTip": "Finanzmanagementsystem\\ViewModels\\BudgetsViewModel.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBIAAAANAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "CsvImportService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\Services\\CsvImportService.cs",
+              "RelativeDocumentMoniker": "Finanzmanagementsystem\\Services\\CsvImportService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\Services\\CsvImportService.cs",
+              "RelativeToolTip": "Finanzmanagementsystem\\Services\\CsvImportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:11:33.878Z",
+              "WhenOpened": "2025-04-16T11:30:48.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BerichteViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\ViewModels\\BerichteViewModel.cs",
-              "RelativeDocumentMoniker": "Finanzmanagementsystem\\ViewModels\\BerichteViewModel.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\ViewModels\\BerichteViewModel.cs",
-              "RelativeToolTip": "Finanzmanagementsystem\\ViewModels\\BerichteViewModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T10:42:43.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "Finanzmanagementsystem\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\ViewModels\\MainViewModel.cs*",
-              "RelativeToolTip": "Finanzmanagementsystem\\ViewModels\\MainViewModel.cs*",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T11:33:00.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "BudgetsPage.xaml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\BudgetsPage.xaml",
               "RelativeDocumentMoniker": "Finanzmanagementsystem\\BudgetsPage.xaml",
@@ -167,25 +188,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "StartseitePage.xaml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\StartseitePage.xaml",
-              "RelativeDocumentMoniker": "Finanzmanagementsystem\\StartseitePage.xaml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\StartseitePage.xaml",
-              "RelativeToolTip": "Finanzmanagementsystem\\StartseitePage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-17T10:56:20.122Z",
+              "DocumentIndex": 2,
+              "Title": "BudgetsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\BudgetsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Finanzmanagementsystem\\BudgetsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\BudgetsPage.xaml.cs",
+              "RelativeToolTip": "Finanzmanagementsystem\\BudgetsPage.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvx8AAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:12:35.947Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Finanzmanagementsystem\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "Finanzmanagementsystem\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAABEAAAAAAAAAAAA8wC0AAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Finanzmanagementsystem\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwDwAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T10:11:20.009Z",
               "EditorCaption": ""
@@ -193,85 +215,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "BerichtePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\BerichtePage.xaml.cs",
-              "RelativeDocumentMoniker": "Finanzmanagementsystem\\BerichtePage.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\BerichtePage.xaml.cs",
-              "RelativeToolTip": "Finanzmanagementsystem\\BerichtePage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T10:59:57.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Monatsbericht.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\Models\\Monatsbericht.cs",
-              "RelativeDocumentMoniker": "Finanzmanagementsystem\\Models\\Monatsbericht.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\Models\\Monatsbericht.cs",
-              "RelativeToolTip": "Finanzmanagementsystem\\Models\\Monatsbericht.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T10:41:45.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Transaktion.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\Models\\Transaktion.cs",
-              "RelativeDocumentMoniker": "Finanzmanagementsystem\\Models\\Transaktion.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\Models\\Transaktion.cs",
-              "RelativeToolTip": "Finanzmanagementsystem\\Models\\Transaktion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T11:29:57.607Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BerichtePage.xaml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\BerichtePage.xaml",
-              "RelativeDocumentMoniker": "Finanzmanagementsystem\\BerichtePage.xaml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\BerichtePage.xaml",
-              "RelativeToolTip": "Finanzmanagementsystem\\BerichtePage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-17T10:56:46.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StartseitePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\StartseitePage.xaml.cs",
-              "RelativeDocumentMoniker": "Finanzmanagementsystem\\StartseitePage.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\StartseitePage.xaml.cs",
-              "RelativeToolTip": "Finanzmanagementsystem\\StartseitePage.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAswBsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T11:01:41.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CsvImportService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\Services\\CsvImportService.cs",
-              "RelativeDocumentMoniker": "Finanzmanagementsystem\\Services\\CsvImportService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\Services\\CsvImportService.cs",
-              "RelativeToolTip": "Finanzmanagementsystem\\Services\\CsvImportService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T11:30:48.504Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "RelayCommand.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\ViewModels\\RelayCommand.cs",
               "RelativeDocumentMoniker": "Finanzmanagementsystem\\ViewModels\\RelayCommand.cs",
@@ -279,7 +222,80 @@
               "RelativeToolTip": "Finanzmanagementsystem\\ViewModels\\RelayCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T11:49:51.475Z"
+              "WhenOpened": "2025-04-16T11:49:51.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VerfuegbarZuFarbeConverter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\Converters\\VerfuegbarZuFarbeConverter.cs",
+              "RelativeDocumentMoniker": "Finanzmanagementsystem\\Converters\\VerfuegbarZuFarbeConverter.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\Converters\\VerfuegbarZuFarbeConverter.cs",
+              "RelativeToolTip": "Finanzmanagementsystem\\Converters\\VerfuegbarZuFarbeConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T11:25:36.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transaktion.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\Models\\Transaktion.cs",
+              "RelativeDocumentMoniker": "Finanzmanagementsystem\\Models\\Transaktion.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\Models\\Transaktion.cs",
+              "RelativeToolTip": "Finanzmanagementsystem\\Models\\Transaktion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:29:57.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StartseitePage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\StartseitePage.xaml",
+              "RelativeDocumentMoniker": "Finanzmanagementsystem\\StartseitePage.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\StartseitePage.xaml",
+              "RelativeToolTip": "Finanzmanagementsystem\\StartseitePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T10:56:20.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BerichtePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\BerichtePage.xaml.cs",
+              "RelativeDocumentMoniker": "Finanzmanagementsystem\\BerichtePage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\BerichtePage.xaml.cs",
+              "RelativeToolTip": "Finanzmanagementsystem\\BerichtePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:59:57.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Monatsbericht.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\Models\\Monatsbericht.cs",
+              "RelativeDocumentMoniker": "Finanzmanagementsystem\\Models\\Monatsbericht.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\Models\\Monatsbericht.cs",
+              "RelativeToolTip": "Finanzmanagementsystem\\Models\\Monatsbericht.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:41:45.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BerichtePage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\BerichtePage.xaml",
+              "RelativeDocumentMoniker": "Finanzmanagementsystem\\BerichtePage.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hausarbeit\\Finanzmanagementsystem\\Finanzmanagementsystem\\BerichtePage.xaml",
+              "RelativeToolTip": "Finanzmanagementsystem\\BerichtePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T10:56:46.173Z"
             }
           ]
         }

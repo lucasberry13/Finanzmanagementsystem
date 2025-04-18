@@ -21,10 +21,12 @@ namespace Finanzmanagementsystem
     /// </summary>
     public partial class StartseitePage : Page
     {
+        
         public StartseitePage(MainViewModel mainViewModel)
         {
             InitializeComponent();
             DataContext = mainViewModel;
+            
         }
 
         private void SearchBox_GotFocus(object sender, RoutedEventArgs e)

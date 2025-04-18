@@ -17,9 +17,18 @@ namespace Finanzmanagementsystem;
 /// </summary>
 public partial class MainWindow : Window
 {
+
+    public MainViewModel ViewModel => (MainViewModel)DataContext;
+
     public MainWindow()
     {
         InitializeComponent();
+
+        if (DataContext is MainViewModel mainVM)
+        {
+            MainFrame.Navigate(new StartseitePage(mainVM));
+        }
+
     }
 
     private void Startseite_Click(object sender, RoutedEventArgs e)
@@ -44,6 +53,12 @@ public partial class MainWindow : Window
         {
             MainFrame.Navigate(new BudgetsPage(mainVM.Budgets, mainVM.Transaktionen));
         }
+    }
+
+    public void AktualisiereBudgetsSeite()
+    {
+        MainFrame.Content = null;
+        MainFrame.Navigate(new BudgetsPage(ViewModel.Budgets, ViewModel.Transaktionen));
     }
 
 

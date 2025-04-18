@@ -39,15 +39,46 @@ namespace Finanzmanagementsystem.ViewModels
 
         public void AktualisiereAusgaben(IEnumerable<Transaktion> transaktionen)
         {
+
+
             Transaktionen = transaktionen;
+
+            var aktuellerMonat = DateTime.Now.Month;
+            var aktuellesJahr = DateTime.Now.Year;
+
+            
 
             foreach (var eintrag in BudgetUebersicht)
             {
-                var summe = transaktionen
-                    .Where(t => t.Typ == "Ausgabe" && t.Kategorie == eintrag.Kategorie)
-                    .Sum(t => Math.Abs(t.Betrag));
-                eintrag.Ausgaben = summe;
+
+                //var transaktionenProKategorie = transaktionen
+                var gefundene = transaktionen
+                    .Where(t => string.Equals(t.Typ?.Trim(), "Ausgabe", StringComparison.OrdinalIgnoreCase)
+                        && string.Equals(t.Kategorie?.Trim(), eintrag.Kategorie?.Trim(), StringComparison.OrdinalIgnoreCase)
+                        && t.Datum.Month == aktuellerMonat
+                        && t.Datum.Year == aktuellesJahr)
+                    .ToList();
+
+                
+
+                eintrag.Ausgaben = gefundene.Sum(t => Math.Abs(t.Betrag));
+                eintrag.AnzahlTransaktionen = gefundene.Count;
+
+                decimal gesamtAusgaben = BudgetUebersicht.Sum(b => b.Ausgaben);
+
+                foreach (var b in BudgetUebersicht)
+                {
+                    b.AnteilAmBudgetGesamt = gesamtAusgaben > 0
+                        ? b.Ausgaben / gesamtAusgaben * 100
+                        : 0;
+
+                    b.OnPropertyChanged(nameof(BudgetEintrag.AnteilAmBudgetGesamt));
+                }
+                
             }
+
+
+
         }
 
         public event PropertyChangedEventHandler? PropertyChanged;

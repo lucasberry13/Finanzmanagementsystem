@@ -3,10 +3,15 @@
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-      xmlns:local="clr-namespace:Finanzmanagementsystem"
+      xmlns:sys="clr-namespace:System;assembly=mscorlib"
+      xmlns:local="clr-namespace:Finanzmanagementsystem.Converters"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
       Title="BudgetsPage">
+
+    <Page.Resources>
+        <local:VerfuegbarZuFarbeConverter x:Key="VerfuegbarZuFarbeConverter"/>
+    </Page.Resources>
 
     <Grid Margin="15">
         <Grid.RowDefinitions>
@@ -21,11 +26,21 @@
           AutoGenerateColumns="False"
           CanUserAddRows="True"
           IsReadOnly="False">
+            <DataGrid.RowStyle>
+                <Style TargetType="DataGridRow">
+                    <Setter Property="Background"
+                            Value="{Binding Verfuegbar, Converter={StaticResource VerfuegbarZuFarbeConverter}}" />
+                </Style>
+            </DataGrid.RowStyle>
+
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Kategorie" Binding="{Binding Kategorie, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
                 <DataGridTextColumn Header="Budget" Binding="{Binding Betrag, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
                 <DataGridTextColumn Header="Ausgaben" Binding="{Binding Ausgaben}" IsReadOnly="True" />
                 <DataGridTextColumn Header="Verfügbar" Binding="{Binding Verfuegbar}" IsReadOnly="True" />
+                <DataGridTextColumn Header="Transaktionen" Binding="{Binding AnzahlTransaktionen}" IsReadOnly="True" />
+                <DataGridTextColumn Header="Ø Ausgabe" Binding="{Binding Durchschnitt, StringFormat=F2}" IsReadOnly="True" />
+                <DataGridTextColumn Header="Anteil %" Binding="{Binding AnteilAmBudgetGesamt, StringFormat=N2}" IsReadOnly="True" />
             </DataGrid.Columns>
         </DataGrid>
 
